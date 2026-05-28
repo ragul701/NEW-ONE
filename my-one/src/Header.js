@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <header>
-      <h1>Ragul React</h1>
+      <h1>Ragul RAJ React</h1>
     </header>
   );
 };
